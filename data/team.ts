@@ -50,4 +50,10 @@ export const TEAM_MEMBERS: TeamMember[] = [
     initials: "L",
     image: null,
   },
+  {
+    id: 8,
+    name: "Guuprasad",
+    initials: "G",
+    image: null,
+  },
 ];
