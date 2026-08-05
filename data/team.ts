@@ -52,8 +52,8 @@ export const TEAM_MEMBERS: TeamMember[] = [
   },
   {
     id: 8,
-    name: "Guuprasad",
-    initials: "G",
+    name: "Guru Prasad",
+    initials: "GP",
     image: null,
   },
 ];
